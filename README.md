@@ -7,8 +7,8 @@ Its just a pen
 
 Made using 
 
-brass
-m3 button head bolt
-m3 grub screw
+brass  
+m3 button head bolt  
+m3 grub screw  
 
 Made on a manual mill and lathe, no 4th axis required
