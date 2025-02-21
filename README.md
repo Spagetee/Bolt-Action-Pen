@@ -10,5 +10,6 @@ Made using
 brass  
 m3 button head bolt  
 m3 grub screw  
+caran d'ache goliath pen cartrige  
 
 Made on a manual mill and lathe, no 4th axis required
